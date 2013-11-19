@@ -17,7 +17,7 @@ ___
 * Flash library page. (Entertainment & Customizable) 	✓
 * Password security page. (Feature)  	✓
 * Ability to delete your own user account. (Conveniance)  	✓
-* User notifications such as online/offline status. (Conveniance) 	✓
+* User notifications such as online/offline/busy/registered status. (Conveniance) 	✓
 * New encryption algorithm implementation. (Cryptography)
 * Two-factor authentication for user accounts. (Security)
 * E-mail confirmation upon registration. (User-friendliness)
