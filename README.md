@@ -4,6 +4,7 @@ A forum project
 #### This is a open source forum project written in PHP and makes use of MySQL, HTML5 &amp; JavaScript.
 ##### Things that will be implemented and has been implemented.
 ###### Legends: ✓ = Added
+###### Progress: 11/18 (%61.111111111111114)
 ---
 ___
 * MySQL database connection template. (Easy-to-use)	✓
