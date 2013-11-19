@@ -4,7 +4,7 @@ A forum project
 #### This is a open source forum project written in PHP and makes use of MySQL, HTML5 &amp; JavaScript.
 ##### Things that will be implemented and has been implemented.
 ###### Legends: ✓ = Added
-###### Progress: 11/18 (%61.111111111111114)
+###### Progress: 11/20 (%55.00000000000001)
 ---
 ___
 * MySQL database connection template. (Easy-to-use)	✓
@@ -18,6 +18,8 @@ ___
 * Password security page. (Feature)  	✓
 * Ability to delete your own user account. (Conveniance)  	✓
 * User notifications such as online/offline/busy/registered status. (Conveniance) 	✓
+* User sessions with protections such as hijack block. (Conveniance & Security)
+* Profile editor. (Conveniance)
 * New encryption algorithm implementation. (Cryptography)
 * Two-factor authentication for user accounts. (Security)
 * E-mail confirmation upon registration. (User-friendliness)
