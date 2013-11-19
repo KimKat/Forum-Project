@@ -10,11 +10,13 @@ ___
 * Users list. (Functionality) 	✓
 * Login page. (Functionality) 	✓
 * Registration page. (Functionality) 	✓
+* CSS styling for each web front end page. (Design) 	✓
 * Proper sanitizing of forms in the login/register pages. (Security) 	✓
 * Fast forward button for 'repeat password' field during registration. (Conveniance)  	✓
 * Flash library page. (Entertainment & Customizable) 	✓
 * Password security page. (Feature)  	✓
 * Ability to delete your own user account. (Conveniance)  	✓
+* User notifications such as online/offline status. (Conveniance) 	✓
 * New encryption algorithm implementation. (Cryptography)
 * Two-factor authentication for user accounts. (Security)
 * E-mail confirmation upon registration. (User-friendliness)
